@@ -12,7 +12,7 @@ On clicking the icons, it should show the next/previous image.
 When the next icon on the last image is clicked, it should show the first image.
 When the previous icon on the first image is clicked, it should show the last image.
 ## 🚀 Live page
-I love solving problems with code. Aside coding, I love reading books, traveling and watching football.
+https://solomonuche.github.io/Slideshow-project/
 
 ## 🛠 Skills
 HTML, CSS, Javascript...
